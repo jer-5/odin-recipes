@@ -1,1 +1,1 @@
-I've been a basic receipe finder for my first Odin project.
+I've built a basic recipe finder for my first Odin project.
